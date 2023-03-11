@@ -1,0 +1,113 @@
+/* header */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 80px;
+}
+.active
+{
+    color: #1754a1 !important;
+    font-weight: bold;
+}
+.nav-link
+{
+    font-size: 20px;
+}
+
+
+/* banner */
+.banner-bg-container {
+    background-image: url('../assets/images/banner/vr-banner-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+.card_image {
+    width: 30%;
+}
+
+.card-heading {
+    font-size: 25px;
+    font-weight:bold ;
+    padding-top: 30px ;
+}
+
+.main-heading {
+    color: #1f2933;
+
+}
+
+.card-heading {
+    color: #323f4b;
+    font-size: 15px;
+}
+
+.web_ket_image {
+    width: 30%;
+}
+
+.web_ket_image-1 {
+    width: 80%;
+    height: 80%;
+}
+
+
+.image-small {
+    width: 100%;
+}
+
+.text p {
+    color: #7b8794;
+}
+
+.text h1 {
+    color: #1a2137;
+    font-size: 28px;
+}
+
+/* footers */
+.footer-vr-background {
+    background-color: #19232d;
+    background-size: cover;
+}
+
+.footer-image {
+    height: 80px;
+    width: 100px;
+    padding: 20px;
+    margin-top: 35px;
+}
+
+.footer-icons {
+    color: #5a7184;
+    margin: 12px;
+    border-radius: 40px;
+    background-color: #202b36;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.footer-paragraph {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.footer-contact-us {
+    color: #5a7184;
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.footer-icons-us {
+    color: #5a7184;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.hr {
+    background-color: #5a7184;
+}

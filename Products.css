@@ -1,0 +1,96 @@
+/* header */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 80px;
+}
+.active
+{
+    color: #1754a1 !important;
+    font-weight: bold;
+}
+.nav-link
+{
+    font-size: 20px;
+}
+
+
+/* page css */
+.bg-product-1 {
+    background-image: url('../assets/images/products/vr-products-headset-img.png');
+}
+
+.bg-product-2 {
+    background-image: url('../assets/images/products/vr-products-headset-with-controllers-img.png');
+}
+
+.bg-product {
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.main-heading {
+    color: #1f2933;
+}
+
+.btn-outline-white {
+    border: solid 1px white !important;
+}
+
+.button {
+    background-color: #1754a1;
+}
+
+.weight {
+    font-weight: 400;
+    font-size: 23px;
+}
+
+/* footers */
+.footer-vr-background {
+    background-color: #19232d;
+    background-size: cover;
+}
+
+.footer-image {
+    height: 80px;
+    width: 100px;
+    padding: 20px;
+    margin-top: 35px;
+}
+
+.footer-icons {
+    color: #5a7184;
+    margin: 12px;
+    border-radius: 40px;
+    background-color: #202b36;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.footer-paragraph {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.footer-contact-us {
+    color: #5a7184;
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.footer-icons-us {
+    color: #5a7184;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.hr {
+    background-color: #5a7184;
+}
