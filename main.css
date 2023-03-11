@@ -21,7 +21,7 @@
 
 /* banner */
 .banner-bg-container {
-    background-image: url('../assets/images/banner/vr-banner-bg.png');
+    background-image: url('assets/images/banner/vr-banner-bg.png');
     background-size: cover;
     height: 100vh;
 }
