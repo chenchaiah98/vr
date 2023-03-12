@@ -94,3 +94,15 @@
 .hr {
     background-color: #5a7184;
 }
+
+
+/*  mobile css*/
+@media screen and (min-width: 700px) {
+ .bg-product {
+    height: 50vh;
+}
+    .weight {
+    font-weight: 400;
+    font-size: 28px;
+}
+}
