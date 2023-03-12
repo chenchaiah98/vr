@@ -4,7 +4,6 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
 .logo {
     width: 80px;
 }
@@ -18,7 +17,6 @@
     font-size: 20px;
 }
 
-
 /* page css */
 .bg-product-1 {
     background-image: url('assets/images/products/vr-products-headset-img.png');
@@ -31,7 +29,7 @@
 .bg-product {
     background-size: cover;
     background-position: center;
-    height: 70vh;
+    height: 40vh;
 }
 
 .main-heading {
